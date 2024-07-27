@@ -49,6 +49,7 @@
     font-size: 16.5px;
     color: #334155;
     line-height: 19.36px;
+    cursor: pointer;
     
 }
 
@@ -573,6 +574,7 @@
     border: #94A3B8;
     color: #ffffff;
     font-size: 22px;
+    cursor: pointer;
 }
 #customer .wrapper .customer_cont .bottom{
     margin-bottom: 10px;
@@ -712,6 +714,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
+    cursor: pointer;
 }
 #journey .wrapper .container .right button span {
     display: flex;
@@ -750,6 +753,7 @@ footer .wrapper .footer_cont .left .logo_cont{
 footer .wrapper .footer_cont .left .logo_cont img{
     width: 100%;
     height: 100%;
+    cursor: pointer;
 }
 footer .wrapper .footer_cont .left p{
     font-size: 15px;
