@@ -46,6 +46,7 @@
 #header .wrapper .navbar .left .logo h1 {
     display: flex;
     align-items: center;
+    font-family: Inter;
     font-weight: 500;   
     font-size: 16.5px;
     color: #334155;
@@ -83,6 +84,7 @@
 }
 
 #header .wrapper .navbar .right #login-btn button a {
+    font-family: Inter;
     font-weight: 500;
     font-size: 14px;
     text-decoration: none;
@@ -100,6 +102,7 @@
 } 
 
 #header .wrapper .navbar .right #signup-btn button a {
+    font-family: Inter;
     font-weight: 500;
     text-decoration: none;
     color: white;
@@ -136,11 +139,13 @@
 #spotlight .wrapper .spotlight_cont .left h2{
     width: 80%;
     font-size: 42px;
+    font-family: Inter;
     font-weight: 700;
     line-height: 49px;
     color: #000000;
 }
 #spotlight .wrapper .spotlight_cont .left p{
+    font-family: Inter;
     margin-top: 16px;
     font-size: 16px;
     font-weight: 400;
@@ -156,6 +161,7 @@
     width: 42%;
     margin-top: 24px;
     color: #ffffff;
+    font-family: Inter;
     font-weight: 500;
     font-size: 14px;
     height: 50px;
@@ -210,10 +216,12 @@
 }
 #count .wrapper .count_cont ul li h2{
     font-size: 32px;
+    font-family: Inter;
     line-height: 41.6px;
     color: #0F172A;
 }
 #count .wrapper .count_cont ul li p{
+    font-family: Inter;
     font-size: 14px;
     line-height: 26px;
     color: #0F172A;
@@ -239,11 +247,13 @@
     justify-content: space-between;
 }
 #categories .wrapper .categories_cont .top h3{
+    font-family: Inter;
     font-size: 24px;
     font-weight: 600;
     color: #0F172A;
 }
 #categories .wrapper .categories_cont .top a{
+    font-family: Inter;
     color: #3b82f6;
     font-size: 14px;
     margin-right: 20px;
@@ -310,12 +320,14 @@
     height: 100%;
 }
 #categories .wrapper .categories_cont .bottom .bottom_cont ul li a .card h4{
+    font-family: Inter;
     color: #0F172A;
     font-size: 20px;
     margin: 10px 0px;
     font-weight: 600;
 }
 #categories .wrapper .categories_cont .bottom .bottom_cont ul li a .card p{
+    font-family: Inter;
     margin: 5px 0px;
     color: #334155;
     font-size: 17px;
@@ -344,12 +356,14 @@
     margin: 10px 0px;
 }
 #courses .wrapper .courses_cont .top h3{
+    font-family: Inter;
     font-size: 24px;
     font-weight: 600;
     line-height: 33.6px;
     color: #0F172A;
 }
 #courses .wrapper .courses_cont .top a{
+    font-family: Inter;
     color: #3b82f6;
     font-size: 15px;
    
@@ -389,6 +403,7 @@
     height: 100%;
 }
 #courses .wrapper .courses_cont .bottom .cards ul li a h5{
+    font-family: Inter;
     font-size: 19px;
     font-weight: 600;
     line-height: 28.8px;
@@ -396,6 +411,7 @@
     color: #0F172A;
 }
 #courses .wrapper .courses_cont .bottom .cards ul li a span{
+    font-family: Inter;
     font-size: 15px;
     font-weight: 400;
     line-height: 21px;
@@ -416,6 +432,7 @@
     height: 100%;
 }
 #courses .wrapper .courses_cont .bottom .cards ul li a .rating small{
+    font-family: Inter;
     font-size: 13px;
     font-weight: 600;
     text-align: left;
@@ -423,6 +440,7 @@
     margin-left: 5px;
 }
 #courses .wrapper .courses_cont .bottom .cards ul li a p{
+    font-family: Inter;
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
@@ -430,6 +448,7 @@
     color: #334155;
 }
 #courses .wrapper .courses_cont .bottom .cards ul li a h6{
+    font-family: Inter;
     font-size: 20px;
     font-weight: 600;
     line-height: 30px;
@@ -457,12 +476,14 @@
     
 }
 #instructors .wrapper .instructor_cont .top h3{
+    font-family: Inter;
     font-size: 24px;
     font-weight: 600;
     margin-bottom: 10px;
     color: #0F172A;
 }
 #instructors .wrapper .instructor_cont .top a{
+    font-family: Inter;
     color: #3b82f6;
     font-size: 15px;
     margin-right: 20px;
@@ -500,6 +521,7 @@
     width: 100%;
 }
 #instructors .wrapper .instructor_cont .bottom .cards ul li .card_top h5{
+    font-family: Inter;
     font-size: 18px;
     font-weight: 600;
     margin-top: 20px;
@@ -507,6 +529,7 @@
     color: #0F172A;
 }
 #instructors .wrapper .instructor_cont .bottom .cards ul li .card_top small{
+    font-family: Inter;
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
@@ -525,6 +548,7 @@
     align-items: center;
 }
 #instructors .wrapper .instructor_cont .bottom .cards ul li .card_bottom .left small{
+    font-family: Inter;
     font-size: 13px;
     font-weight: 700;
 }
@@ -537,6 +561,7 @@
     height: 100%;
 }
 #instructors .wrapper .instructor_cont .bottom .cards ul li .card_bottom .right small{
+    font-family: Inter;
     font-size: 13px;
     font-weight: 600;
     color: #334155;
@@ -565,6 +590,7 @@
     width: 27%;
 }
 #customer .wrapper .customer_cont .top .left h5{
+    font-family: Inter;
     font-size: 25px;
     font-weight: 600;
     line-height: 33.6px;
@@ -619,6 +645,7 @@
     height: 100%;
 }
 #customer .wrapper .customer_cont .bottom .cards .card p{
+    font-family: Inter;
     font-size: 16px;
     font-weight: 500;
     line-height: 27.6px;
@@ -647,12 +674,14 @@
     flex-direction: column;
 }
 #customer .wrapper .customer_cont .bottom .cards .card .profile .details p{
+    font-family: Inter;
     font-size: 18px;
     font-weight: 600;
     line-height: 28.8px;
     text-align: left;
 }
 #customer .wrapper .customer_cont .bottom .cards .card .profile .details span{
+    font-family: Inter;
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
@@ -704,11 +733,13 @@
     display: none;
 }
 #journey .wrapper .container .right h5{
+    font-family: Inter;
     font-size: 21px;
     font-weight: 600;
     line-height: 30px;
 }
 #journey .wrapper .container .right p{
+    font-family: Inter;
     font-size: 17px;
     font-weight: 400;
     line-height: 25.6px;
@@ -722,6 +753,7 @@
     color: #fff;
     border: none;
     margin: 10px 0px;
+    font-family: Inter;
     font-size: 15px;
     display: flex;
     align-items: center;
@@ -769,6 +801,7 @@ footer .wrapper .footer_cont .left .logo_cont img{
     cursor: pointer;
 }
 footer .wrapper .footer_cont .left p{
+    font-family: Inter;
     font-size: 15px;
     font-weight: 400;
     line-height: 24px;
@@ -785,6 +818,7 @@ footer .wrapper .footer_cont .right .footer_data{
     flex-direction: column;
 }
 footer .wrapper .footer_cont .right .footer_data h6{
+    font-family: Inter;
     font-size: 19px;
     font-weight: 500;
     line-height: 34.8px;
@@ -796,6 +830,7 @@ footer .wrapper .footer_cont .right .footer_data ul{
     flex-direction: column;
 }
 footer .wrapper .footer_cont .right .footer_data ul li a{
+    font-family: Inter;
     font-size: 15px;
     font-weight: 400;
     line-height: 30px;
