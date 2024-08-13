@@ -25,6 +25,7 @@
 #header{
     border-bottom: 1px solid #ccc;
     padding: 10px 0;
+    font-family: Inter;
     
     
 }
@@ -58,10 +59,12 @@
 #header .wrapper .navbar .left .logo h1 .logo-container {
     width: 100%;
     
+    
 }
 #header .wrapper .navbar .left .logo h1 .logo-container img {
     height: 45px;
     width: 33px;
+   
 }
 
 #header .wrapper .navbar .right {
@@ -118,6 +121,7 @@
 
 #spotlight{
     width: 100%;
+    font-family: Inter;
 }
 #spotlight .wrapper .spotlight_cont{
     display: flex;
@@ -134,6 +138,7 @@
     font-size: 42px;
     font-weight: 700;
     line-height: 49px;
+    color: #000000;
 }
 #spotlight .wrapper .spotlight_cont .left p{
     margin-top: 16px;
@@ -178,6 +183,7 @@
 #count{
     background: #f8fafc;
     margin: 75px 0px;
+    font-family: Inter;
 }
 #count .wrapper .count_cont{
     padding: 44px 0px;
@@ -219,6 +225,7 @@
 #categories{
     margin-bottom: 30px;
     margin-top: 30px;
+    font-family: Inter;
 }
 #categories .wrapper .categories_cont{
     display: flex;
@@ -320,6 +327,7 @@
 
 
 #courses{
+    font-family: Inter;
     margin-bottom: 30px;
     margin-top: 52px;
 }
@@ -434,6 +442,7 @@
 #instructors{
     margin-bottom: 30px;
     margin-top: 60px;
+    font-family: Inter;
 }
 #instructors .wrapper .instructor_cont{
     display: flex;
@@ -539,6 +548,7 @@
     background-color: #F8FAFC;
     padding: 30px 0px;
     margin: 55px 0px;
+    font-family: Inter;
 }
 #customer .wrapper .customer_cont{
     display: flex;
@@ -584,6 +594,7 @@
     display:flex ;
     align-items: center;
     margin: 25px 0px;
+    padding: 2px;
     gap: 25px;
     justify-content: space-between;
     
@@ -656,6 +667,7 @@
     display: flex;
     align-items: center;
     margin-top: 60px;
+    font-family: Inter;
 }
 #journey .wrapper .container .left{
     display: flex;
@@ -729,6 +741,7 @@ footer{
     background: #1E293B;
     padding: 80px 0px 110px 0px;
     margin-top: 60px;
+    
 }
 footer .wrapper .footer_cont{
     display: flex;
@@ -951,7 +964,7 @@ footer .wrapper .footer_cont .right .footer_data ul li a .icon_cont img{
         width: 43%;
         padding: 40px 0px;
     }
- #spotlight .wrapper .spotlight_cont .left h2{
+    #spotlight .wrapper .spotlight_cont .left h2{
         font-size: 24px;
     }
     #spotlight .wrapper .spotlight_cont .right .img_cont{
